@@ -1,0 +1,8 @@
+{
+  "db": {
+    "url": "mongodb://admin:admin@ds013966.mlab.com:13966/meetupz",
+    "database": "meetupz",
+    "name": "db",
+    "connector": "mongodb"
+  }
+}
